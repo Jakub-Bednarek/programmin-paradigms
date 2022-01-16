@@ -1,0 +1,120 @@
+
+Testing for: 8 elements using InsertionSort
+
+Random order: Compares: 20, Switches: 34
+Descending order: Compares: 48, Switches: 76
+Ascending order: Compares: 48, Switches: 90
+
+Testing for: 32 elements using InsertionSort
+
+Random order: Compares: 313, Switches: 417
+Descending order: Compares: 808, Switches: 974
+Ascending order: Compares: 808, Switches: 1036
+
+Testing for: 128 elements using InsertionSort
+
+Random order: Compares: 5127, Switches: 5609
+Descending order: Compares: 13254, Switches: 13990
+Ascending order: Compares: 13254, Switches: 14244
+
+Testing for: 512 elements using InsertionSort
+
+Random order: Compares: 80788, Switches: 82800
+Descending order: Compares: 211591, Switches: 214625
+Ascending order: Compares: 211591, Switches: 215647
+
+Testing for: 1024 elements using InsertionSort
+
+Random order: Compares: 471984, Switches: 478086
+Descending order: Compares: 995704, Switches: 1003852
+Ascending order: Compares: 995704, Switches: 1005898
+
+Testing for: 8 elements using SelectionSort
+
+Random order: Compares: 36, Switches: 58
+Descending order: Compares: 72, Switches: 130
+Ascending order: Compares: 108, Switches: 170
+
+Testing for: 32 elements using SelectionSort
+
+Random order: Compares: 636, Switches: 446
+Descending order: Compares: 1164, Switches: 1118
+Ascending order: Compares: 1692, Switches: 1278
+
+Testing for: 128 elements using SelectionSort
+
+Random order: Compares: 9948, Switches: 2750
+Descending order: Compares: 18204, Switches: 11532
+Ascending order: Compares: 26460, Switches: 12172
+
+Testing for: 512 elements using SelectionSort
+
+Random order: Compares: 157788, Switches: 19760
+Descending order: Compares: 289116, Switches: 149954
+Ascending order: Compares: 420444, Switches: 152514
+
+Testing for: 1024 elements using SelectionSort
+
+Random order: Compares: 945244, Switches: 169230
+Descending order: Compares: 1470044, Switches: 675304
+Ascending order: Compares: 1994844, Switches: 680424
+
+Testing for: 8 elements using QuickSort
+
+Random order: Compares: 17, Switches: 51
+Descending order: Compares: 36, Switches: 108
+Ascending order: Compares: 71, Switches: 213
+
+Testing for: 32 elements using QuickSort
+
+Random order: Compares: 160, Switches: 480
+Descending order: Compares: 431, Switches: 1293
+Ascending order: Compares: 958, Switches: 2874
+
+Testing for: 128 elements using QuickSort
+
+Random order: Compares: 1419, Switches: 4257
+Descending order: Compares: 5578, Switches: 16734
+Ascending order: Compares: 13730, Switches: 41190
+
+Testing for: 512 elements using QuickSort
+
+Random order: Compares: 16592, Switches: 49776
+Descending order: Compares: 81451, Switches: 244353
+Ascending order: Compares: 209544, Switches: 628632
+
+Testing for: 1024 elements using QuickSort
+
+Random order: Compares: 215922, Switches: 647766
+Descending order: Compares: 471891, Switches: 1415673
+Ascending order: Compares: 972107, Switches: 2916321
+
+Testing for: 8 elements using MergeSort
+
+Random order: Compares: 24, Switches: 48
+Descending order: Compares: 44, Switches: 96
+Ascending order: Compares: 76, Switches: 144
+
+Testing for: 32 elements using MergeSort
+
+Random order: Compares: 206, Switches: 464
+Descending order: Compares: 318, Switches: 784
+Ascending order: Compares: 510, Switches: 1104
+
+Testing for: 128 elements using MergeSort
+
+Random order: Compares: 1157, Switches: 2896
+Descending order: Compares: 1733, Switches: 4688
+Ascending order: Compares: 2755, Switches: 6480
+
+Testing for: 512 elements using MergeSort
+
+Random order: Compares: 5887, Switches: 15696
+Descending order: Compares: 8703, Switches: 24912
+Ascending order: Compares: 13808, Switches: 34128
+
+Testing for: 1024 elements using MergeSort
+
+Random order: Compares: 20616, Switches: 54608
+Descending order: Compares: 26760, Switches: 75088
+Ascending order: Compares: 37981, Switches: 95568

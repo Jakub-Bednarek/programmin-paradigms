@@ -1,0 +1,200 @@
+Test numer 1
+Ilosc liczb: 100
+Ilosc_porownan
+	BST: 1215
+	RBTree: 498
+	TwoFourTree: 647
+
+
+Test numer 1
+Ilosc liczb: 1000
+Ilosc_porownan
+	BST: 57954
+	RBTree: 10992
+	TwoFourTree: 10771
+
+
+Test numer 1
+Ilosc liczb: 5000
+Ilosc_porownan
+	BST: 2667946
+	RBTree: 519282
+	TwoFourTree: 75409
+
+
+Test numer 1
+Ilosc liczb: 10000
+Ilosc_porownan
+	BST: 9526283
+	RBTree: 3992144
+	TwoFourTree: 166806
+
+
+Test numer 1
+Ilosc liczb: 20000
+Ilosc_porownan
+	BST: 49504523
+	RBTree: 31065146
+	TwoFourTree: 364710
+
+
+Test numer 2
+Ilosc liczb: 100
+Ilosc_porownan
+	BST: 1439
+	RBTree: 503
+	TwoFourTree: 640
+
+
+Test numer 2
+Ilosc liczb: 1000
+Ilosc_porownan
+	BST: 129610
+	RBTree: 10111
+	TwoFourTree: 10658
+
+
+Test numer 2
+Ilosc liczb: 5000
+Ilosc_porownan
+	BST: 2177623
+	RBTree: 519340
+	TwoFourTree: 75572
+
+
+Test numer 2
+Ilosc liczb: 10000
+Ilosc_porownan
+	BST: 8065813
+	RBTree: 3989484
+	TwoFourTree: 166549
+
+
+Test numer 2
+Ilosc liczb: 20000
+Ilosc_porownan
+	BST: 48774329
+	RBTree: 31231241
+	TwoFourTree: 365270
+
+
+Test numer 3
+Ilosc liczb: 100
+Ilosc_porownan
+	BST: 839
+	RBTree: 480
+	TwoFourTree: 646
+
+
+Test numer 3
+Ilosc liczb: 1000
+Ilosc_porownan
+	BST: 137592
+	RBTree: 10088
+	TwoFourTree: 10812
+
+
+Test numer 3
+Ilosc liczb: 5000
+Ilosc_porownan
+	BST: 706048
+	RBTree: 529388
+	TwoFourTree: 75641
+
+
+Test numer 3
+Ilosc liczb: 10000
+Ilosc_porownan
+	BST: 13630966
+	RBTree: 4074228
+	TwoFourTree: 166564
+
+
+Test numer 3
+Ilosc liczb: 20000
+Ilosc_porownan
+	BST: 37564767
+	RBTree: 31359071
+	TwoFourTree: 365541
+
+
+Test numer 4
+Ilosc liczb: 100
+Ilosc_porownan
+	BST: 684
+	RBTree: 477
+	TwoFourTree: 638
+
+
+Test numer 4
+Ilosc liczb: 1000
+Ilosc_porownan
+	BST: 140054
+	RBTree: 10215
+	TwoFourTree: 10876
+
+
+Test numer 4
+Ilosc liczb: 5000
+Ilosc_porownan
+	BST: 2599074
+	RBTree: 515040
+	TwoFourTree: 75430
+
+
+Test numer 4
+Ilosc liczb: 10000
+Ilosc_porownan
+	BST: 8224423
+	RBTree: 3980152
+	TwoFourTree: 166609
+
+
+Test numer 4
+Ilosc liczb: 20000
+Ilosc_porownan
+	BST: 94742987
+	RBTree: 31414415
+	TwoFourTree: 365066
+
+
+Test numer 5
+Ilosc liczb: 100
+Ilosc_porownan
+	BST: 713
+	RBTree: 444
+	TwoFourTree: 648
+
+
+Test numer 5
+Ilosc liczb: 1000
+Ilosc_porownan
+	BST: 112139
+	RBTree: 9687
+	TwoFourTree: 10836
+
+
+Test numer 5
+Ilosc liczb: 5000
+Ilosc_porownan
+	BST: 1417857
+	RBTree: 519846
+	TwoFourTree: 75512
+
+
+Test numer 5
+Ilosc liczb: 10000
+Ilosc_porownan
+	BST: 8451251
+	RBTree: 3922342
+	TwoFourTree: 166800
+
+
+Test numer 5
+Ilosc liczb: 20000
+Ilosc_porownan
+	BST: 47818797
+	RBTree: 30909553
+	TwoFourTree: 364902
+
+

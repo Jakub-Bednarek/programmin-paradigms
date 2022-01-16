@@ -1,0 +1,5 @@
+Testing for: 8 elements.
+
+Random order: Compares: 16, Switches: 23
+Descending order: Compares: 28, Switches: 35
+Ascending order: Compares: 0, Switches: 7

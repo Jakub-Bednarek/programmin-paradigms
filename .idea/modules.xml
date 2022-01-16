@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Laby.iml" filepath="$PROJECT_DIR$/.idea/Laby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laby3/Laby3.iml" filepath="$PROJECT_DIR$/Laby3/Laby3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laby4/Laby4.iml" filepath="$PROJECT_DIR$/Laby4/Laby4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laby5/Laby5.iml" filepath="$PROJECT_DIR$/Laby5/Laby5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laby6/Laby6.iml" filepath="$PROJECT_DIR$/Laby6/Laby6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laby7/Laby7.iml" filepath="$PROJECT_DIR$/Laby7/Laby7.iml" />
+    </modules>
+  </component>
+</project>

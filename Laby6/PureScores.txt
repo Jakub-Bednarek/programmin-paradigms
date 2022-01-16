@@ -1,0 +1,80 @@
+InsertionSort	8
+Random	27	13
+Ascending	42	28
+Descending	14	0
+InsertionSort	32
+Random	332	270
+Ascending	558	496
+Descending	62	0
+InsertionSort	128
+Random	4078	3824
+Ascending	8380	8126
+Descending	254	0
+InsertionSort	512
+Random	68367	67345
+Ascending	131821	130799
+Descending	1022	0
+InsertionSort	1024
+Random	262477	260431
+Ascending	525771	523725
+Descending	2046	0
+SelectionSort	8
+Random	56	36
+Ascending	72	36
+Descending	40	36
+SelectionSort	32
+Random	302	528
+Ascending	672	528
+Descending	160	528
+SelectionSort	128
+Random	1524	8256
+Ascending	8832	8256
+Descending	640	8256
+SelectionSort	512
+Random	7502	131328
+Ascending	130756	131328
+Descending	2560	131328
+SelectionSort	1024
+Random	16256	524800
+Ascending	501686	524800
+Descending	5120	524800
+QuickSort	8
+Random	45	15
+Ascending	57	19
+Descending	105	35
+QuickSort	32
+Random	216	72
+Ascending	813	271
+Descending	1581	527
+QuickSort	128
+Random	1416	472
+Ascending	12477	4159
+Descending	24639	8213
+QuickSort	512
+Random	7971	2657
+Ascending	193536	64512
+Descending	387159	129053
+QuickSort	1024
+Random	17193	5731
+Ascending	771030	257010
+Descending	1509681	503227
+MergeSort	8
+Random	48	26
+Ascending	48	20
+Descending	48	32
+MergeSort	32
+Random	320	136
+Ascending	320	112
+Descending	320	192
+MergeSort	128
+Random	1792	663
+Ascending	1792	576
+Descending	1792	1024
+MergeSort	512
+Random	9216	3142
+Ascending	9216	2816
+Descending	9216	5108
+MergeSort	1024
+Random	20480	6754
+Ascending	20480	6144
+Descending	20480	11212
